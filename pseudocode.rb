@@ -1,3 +1,5 @@
+Mike Heft 5/2/2017
+
 ready_to_quit = false
 puts "HELLO, THIS IS A GROCERY STORE!"
 
