@@ -1,9 +1,5 @@
 class Game
-
-
   @@answer = rand(1..100).to_s
-  puts @@answer
-  puts @@answer.class
 
   def hint
     random_number = @@answer.to_i
