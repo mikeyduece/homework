@@ -1,4 +1,4 @@
-require 'pry'
+
 class MergeSort
   def sort(input)
     # seperate array into odd and even array
@@ -11,7 +11,7 @@ class MergeSort
     # combine both arrays
     sorted = []
     
-    binding.pry
+   
 
   end
 end
